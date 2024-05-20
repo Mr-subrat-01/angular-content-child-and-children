@@ -1,16 +1,13 @@
-
 .box {
     background-color: #333;
     width: 50%;
-    position: absolute;
-    left: 50%;
-    transform: translate(-50%, 50%);
+    margin: auto;
     padding: 20px;
     border-radius: 5px;
     color: aliceblue;
 }
 
-.box h3{
+.box h3 {
     margin: 10px 0;
 }
 
